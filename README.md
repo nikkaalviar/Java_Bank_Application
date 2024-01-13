@@ -1,4 +1,4 @@
-# Revature_Project0
+# Java Bank Application
 Console-based Banking Application
 
 For this application you may choose one of the following concepts: 
